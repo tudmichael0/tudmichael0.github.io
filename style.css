@@ -1,0 +1,39 @@
+/* style.css */
+
+/* style.css */
+.custom-navbar-color {
+    background-color: #36454f;
+  }
+  
+
+/* Add some spacing and background color to the section */
+.container {
+    background-color: #36454f;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  /* Style the heading */
+  h2 {
+    color:  #ffffff; /* Bootstrap primary color */
+  }
+  
+  /* Style the module details */
+  .row {
+    margin-top: 20px;
+  }
+  
+  .col-md-6 {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color:  #f8f9fa; /* Bootstrap success color */
+  }
+  
+  p {
+    margin-bottom: 5px;
+  }
+  
+  
